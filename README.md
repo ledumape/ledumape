@@ -16,7 +16,7 @@ Radar de vagas com análise explicável, leitura de currículo e arquitetura pre
 
 Protótipo de integração entre Zepp OS e Hevy com Side Service, Bluetooth e API.
 
-[Ver repositório](https://github.com/ledumape/bip6tohevy)
+[Ver repositório](https://github.com/ledumape/amazfit-hevy-integration)
 
 ### Portfólio
 
